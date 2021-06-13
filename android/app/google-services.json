@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772259514522",
+    "firebase_url": "https://folio-fit-default-rtdb.firebaseio.com",
+    "project_id": "folio-fit",
+    "storage_bucket": "folio-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772259514522:android:9650224aa6fedff073b723",
+        "android_client_info": {
+          "package_name": "com.example.folio_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772259514522-kl64optlbptslt7ao531uc9bl3lleveo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTSljmWumf41hAYHBO26-uyWwxUSKSIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772259514522-kl64optlbptslt7ao531uc9bl3lleveo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
